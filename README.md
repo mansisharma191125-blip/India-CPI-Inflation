@@ -1,4 +1,4 @@
-# 🇮🇳 Indian CPI Inflation Analysis (2013–2023)
+# Indian CPI Inflation Analysis (2013–2023)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
