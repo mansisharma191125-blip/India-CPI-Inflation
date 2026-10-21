@@ -23,7 +23,7 @@ The goal is to turn historical economic data into clear, practical insights thro
 
 ## 📸 Project Visuals
 
-The preview charts below summarise selected findings recorded in the workbook summary. They are **illustrative visual previews**, not screenshots of the Excel interface. Open the workbook above to inspect the original sheets and charts.
+The preview charts below summarise selected findings recorded in the workbook summary. They are **illustrative visual previews**
 
 ### 1. Category Distribution
 
@@ -35,7 +35,7 @@ Food & Beverages represents approximately **44.4% of the category distribution**
 
 ![Annual inflation trend chart](https://quickchart.io/chart?width=850&height=420&format=png&backgroundColor=white&c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%222022%22%2C%222023%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Reported%20annual%20inflation%20%28%25%29%22%2C%22data%22%3A%5B6.6%2C3.2%5D%2C%22fill%22%3Afalse%2C%22tension%22%3A0.2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Annual%20inflation%20figures%20reported%20in%20workbook%20summary%22%7D%2C%22legend%22%3A%7B%22display%22%3Afalse%7D%7D%2C%22scales%22%3A%7B%22y%22%3A%7B%22beginAtZero%22%3Atrue%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Percent%20%28%25%29%22%7D%7D%7D%7D%7D)
 
-The project summary reports approximately **6.6% for 2022** and **3.2% for 2023**. Confirm the precise measure, calculation, and period in the relevant workbook sheet before quoting these figures outside this project.
+The project summary reports approximately **6.6% for 2022** and **3.2% for 2023**. 
 
 ### 3. Fuel & Light Correlation
 
