@@ -36,6 +36,3 @@ The workbook reports these correlations with Fuel & Light:
 - The strongest positive relationship in these comparisons is with Transport & Communication.
 - The Food & Beverages pair has a weak negative correlation in the selected series.
 - Correlation does not establish causation. Results depend on the period, index series, and calculation method used.
-
-## Portfolio Presentation Tip
-When discussing this project in an interview, explain the business question first, then the data structure, analysis approach, key findings, and limitations. Be clear that the category contribution percentage is the share of observations in this workbook, not necessarily the official CPI weighting.
